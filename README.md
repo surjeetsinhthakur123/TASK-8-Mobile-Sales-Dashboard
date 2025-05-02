@@ -52,6 +52,8 @@ This repository contains an interactive **Mobile Sales Dashboard** built using *
 ## 📷 Dashboard Preview
 
 ![Dashboard Preview](1.jpg)
+![Dashboard Preview](2.jpg)
+![Dashboard Preview](3.jpg)
 
 ---
 
