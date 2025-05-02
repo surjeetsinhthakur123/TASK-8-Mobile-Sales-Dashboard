@@ -57,6 +57,12 @@ This repository contains an interactive **Mobile Sales Dashboard** built using *
 
 ---
 
+## Live Demo
+
+Explore the live project here: [Mobile Sales Dashboard - Power BI Project Report](https://app.powerbi.com/groups/me/reports/e6ab2faa-e0fd-4d19-9058-c289ec623626/992aac1a083480728678?experience=power-bi)
+
+---
+
 ## 🚀 How to Use
 
 1. Clone the repository:
