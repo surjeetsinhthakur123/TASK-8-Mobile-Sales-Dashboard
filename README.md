@@ -22,7 +22,6 @@ This repository contains an interactive **Mobile Sales Dashboard** built using *
 📁 Mobile-Sales-Dashboard/
 ├── Mobile Sales Data.xlsx        # Raw sales dataset
 ├── Mobile_Sales_Dashboard.pbix  # Power BI dashboard file
-├── Mobile Sales Dashboard Intergrated With PowerPoint Video
 ├── Screenshots/                 # Optional: dashboard images
 │   └── dashboard-preview.png
 └── README.md                    # Project overview file
